@@ -1,0 +1,1 @@
+{"version":1,"defects":{"Tests\\App\\Models\\BaseModelTest::testInsert":8,"Tests\\App\\Models\\BaseModelTest::testGet":8},"times":{"Tests\\App\\Models\\BaseModelTest::testInsert":0.014,"Tests\\App\\Models\\BaseModelTest::testGet":0.001}}
