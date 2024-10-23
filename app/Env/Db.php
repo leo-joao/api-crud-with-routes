@@ -5,10 +5,10 @@ $environment = 'prod';
 
 if ($environment === 'prod') {
   define('DB_TYPE', 'mysql');
-  define('DB_HOST', '193.203.175.56');
-  define('DB_NAME', 'u680765307_softExpert');
-  define('DB_USER', 'u680765307_leojoaoSoft');
-  define('DB_PASS', 'IgJW3m4z&1bV');
+  define('DB_HOST', '');
+  define('DB_NAME', '');
+  define('DB_USER', '');
+  define('DB_PASS', '');
 } elseif ($environment === 'dev') {
   define('DB_TYPE', 'pgsql');
   define('DB_HOST', 'localhost');
